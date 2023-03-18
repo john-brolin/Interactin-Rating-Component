@@ -1,0 +1,1 @@
+# Interactin-Rating-Component
